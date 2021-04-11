@@ -1,4 +1,4 @@
-# Akan-Names
+# Ghanian Akan Names
 
 ## Author
 
