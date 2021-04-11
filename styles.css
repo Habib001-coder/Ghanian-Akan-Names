@@ -52,7 +52,7 @@ h2{
   font-family: 'Quattrocento', serif;
 }
 .form-check-label{
-  color: rgb(255, 255, 255);
+  color: greenyellow;
 }
 input[type="radio"] {
   -webkit-transform: scale(1.5);
