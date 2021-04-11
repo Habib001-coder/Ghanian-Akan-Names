@@ -10,5 +10,7 @@ This is a web application that helps one to get there akan names depending on th
 * CSS
 * JavaScript
 * Bootstrap
+# link to my-web app
+https://habib001-coder.github.io/Ghanian-Akan-Names/
 ## License
 * Copyright (c) 2021 **Abdallah Habib Abdul**
