@@ -14,5 +14,5 @@ This is a web application that helps one to get there akan names depending on th
 * JavaScript
 * Bootstrap
 ## License
-* *MIT License:*
+* 
 * Copyright (c) 2021 **Abdallah Habib Abdul**
