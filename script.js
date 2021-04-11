@@ -2,7 +2,7 @@ var CC, YY, MM, DD, d, dayValue;
 var dayNames = ["Sunday","Monday","Tuesday","Wednesday", "Thursday", "Friday","Saturday" ];
 var maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw", "Kofi","Kwame"];
 var femaleNames = ["Akosua","Adwoa","Abenaa","Akua"," Yaa","Afua","Ama"];
-/*
+
 function validate() {
   var genders = document.getElementsByName("gender");
   if( document.myForm.year.value == "" || document.myForm.year.value.length !=4 || document.myForm.year.value >2100 || document.myForm.year.value <=1900) {
@@ -77,6 +77,7 @@ function getGender(){
       else if(dayValue == -0){
         alert("You were born on "+dayNames[6] + " and Your akan name is " +maleNames[6]+"!");
       }
+      /*
     break;
     case "female":
       if (dayValue == 1){
