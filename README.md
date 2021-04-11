@@ -9,7 +9,7 @@ Abdallah Habib Abdul
 This is a web application that helps one to get there akan names depending on the day,month,year and the month they were born.
 ## Technologies Used
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 * Bootstrap
